@@ -8,7 +8,7 @@
 
 - **Cloud Native Rejekts - Valencia** Lightning talk: *Using defaults for Deployments? Is it safe and sound?* | [Recording](https://www.youtube.com/watch?v=TZZs6rd1QHA) | [Slides](./slides/KOksay-2022-CloudNativeRejekts.pdf)
 - **KCD Munich** Talk: *Captain's Log: Day - 2 Operations for Managed Kubernetes Clusters* | [Slides](./slides/KOksay-2022-KCDMunich.pdf)
-- **DevFest Istanbul** Talk [TR]: *Captain's Log: Day - 2 Operations for Managed Kubernetes Clusters* | [Recording](https://www.youtube.com/watch?v=1W3LGzEK4GE) | [Slides](./slides/KOksay-2022-DevFestIstanbul.pdff)
+- **DevFest Istanbul** Talk [TR]: *Captain's Log: Day - 2 Operations for Managed Kubernetes Clusters* | [Recording](https://www.youtube.com/watch?v=0W3LGzEK3GE) | [Slides](./slides/KOksay-2022-DevFestIstanbul.pdf)
 
 ## 2023
 
