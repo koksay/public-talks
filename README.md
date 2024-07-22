@@ -22,11 +22,12 @@
 ## 2024
 
 - **Kubernetes Contributor Summit - Paris** Workshop: *Get Your CI Jobs Optimized Together!*
-- **DevOpsDays Istanbul** Talk: *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2024-DevOpsDaysIstanbul.pdf)
+- **DevOpsDays Istanbul** Talk: *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2024-DevOpsDaysIstanbul.pdf) | [Recording](https://www.youtube.com/watch?v=kORsmrdgFfQ)
+- **DevOpsPro Europe - Vilnius** Talk: *Continuous Deployment: The GitOps, The Pipelines, and The Ugly* | [Slides](./slides/KOksay-2024-DevOpsProEurope.pdf) | [Recording](https://www.youtube.com/watch?v=kORsmrdgFfQ)
+- **KCD Munich** Talk (w/ @developerguy): *No More YAML Soup: Taking Control with Dagger's Pipeline-as-Code Philosophy* | [Slides](./slides/KOksay-2024-KCDMunich.pdf)
 
 ## Upcoming
-- **DevOpsPro Europe - Vilnius** Talk: *Continuous Deployment: The GitOps, The Pipelines, and The Ugly* | [Session](https://events.pinetool.ai/3152/#sessions/104764)
-- **KCD Munich** Talk: *No More YAML Soup: Taking Control with Dagger's Pipeline-as-Code Philosophy* | [Session](https://www.kcdmunich.de/schedule/)
+- **Container Days - Hamburg** Talk: *Fast & Secure: Package, Sign, Verify, and Deploy* [Session](https://www.containerdays.io/containerdays-conference-2024/agenda/)
 
 
 
