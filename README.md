@@ -25,11 +25,8 @@
 - **DevOpsDays Istanbul** Talk: *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2024-DevOpsDaysIstanbul.pdf) | [Recording](https://www.youtube.com/watch?v=kORsmrdgFfQ)
 - **DevOpsPro Europe - Vilnius** Talk: *Continuous Deployment: The GitOps, The Pipelines, and The Ugly* | [Slides](./slides/KOksay-2024-DevOpsProEurope.pdf) | [Recording](https://www.youtube.com/watch?v=kORsmrdgFfQ)
 - **KCD Munich** Talk (w/ @developerguy): *No More YAML Soup: Taking Control with Dagger's Pipeline-as-Code Philosophy* | [Slides](./slides/KOksay-2024-KCDMunich.pdf)
+- **Container Days - Hamburg** Talk: *Fast & Secure: Package, Sign, Verify, and Deploy* [Slides](./slides/KOksay-2024-ContainerDays.pdf)
 
 ## Upcoming
-- **Container Days - Hamburg** Talk: *Fast & Secure: Package, Sign, Verify, and Deploy* [Session](https://www.containerdays.io/containerdays-conference-2024/agenda/)
 
-
-
-
-
+- **Conf42 Kube Native 2024 - Online** Talk: *KubeVirt Alchemy: Transforming VMs into Kubernetes Workloads* | [Session](https://www.conf42.com/Kube_Native_2024_Koray_Oksay_Batuhan_Apaydin_kubevirt_vms_kubernetes_workloads)
