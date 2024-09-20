@@ -24,9 +24,12 @@
 - **Kubernetes Contributor Summit - Paris** Workshop: *Get Your CI Jobs Optimized Together!*
 - **DevOpsDays Istanbul** Talk: *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2024-DevOpsDaysIstanbul.pdf) | [Recording](https://www.youtube.com/watch?v=kORsmrdgFfQ)
 - **DevOpsPro Europe - Vilnius** Talk: *Continuous Deployment: The GitOps, The Pipelines, and The Ugly* | [Slides](./slides/KOksay-2024-DevOpsProEurope.pdf) | [Recording](https://www.youtube.com/watch?v=kORsmrdgFfQ)
-- **KCD Munich** Talk (w/ @developerguy): *No More YAML Soup: Taking Control with Dagger's Pipeline-as-Code Philosophy* | [Slides](./slides/KOksay-2024-KCDMunich.pdf)
-- **Container Days - Hamburg** Talk: *Fast & Secure: Package, Sign, Verify, and Deploy* [Slides](./slides/KOksay-2024-ContainerDays.pdf)
+- **KCD Munich** Talk (w/ @developer-guy): *No More YAML Soup: Taking Control with Dagger's Pipeline-as-Code Philosophy* | [Slides](./slides/KOksay-2024-KCDMunich.pdf) | [Recording](https://www.youtube.com/watch?v=R7a3b6oj6Dg)
+- **Container Days - Hamburg** Talk (w/ @developer-guy): *Fast & Secure: Package, Sign, Verify, and Deploy* [Slides](./slides/KOksay-2024-ContainerDays.pdf) | [Recording](https://www.youtube.com/watch?v=4RadD91K_L8)
+- **ChatLoopBackOff** LiveStream: *Episode 29: SOPS* [Recording](https://www.youtube.com/watch?v=FUBMLa8bAJE)
 
 ## Upcoming
 
 - **Conf42 Kube Native 2024 - Online** Talk: *KubeVirt Alchemy: Transforming VMs into Kubernetes Workloads* | [Session](https://www.conf42.com/Kube_Native_2024_Koray_Oksay_Batuhan_Apaydin_kubevirt_vms_kubernetes_workloads)
+- **Google DevFest'24 Izmir** Talk (w/ @developer-guy)
+- **DevOps Pro Europe 2025 - Vilnius** Talk (w/ @ckavili) *VMs in containers: What kind of sorcery is this?*
