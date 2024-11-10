@@ -28,8 +28,10 @@
 - **Container Days - Hamburg** Talk (w/ @developer-guy): *Fast & Secure: Package, Sign, Verify, and Deploy* [Slides](./slides/KOksay-2024-ContainerDays.pdf) | [Recording](https://www.youtube.com/watch?v=4RadD91K_L8)
 - **ChatLoopBackOff** LiveStream: *Episode 29: SOPS* [Recording](https://www.youtube.com/watch?v=FUBMLa8bAJE)
 - **Conf42 Kube Native 2024 - Online** Talk: *KubeVirt Alchemy: Transforming VMs into Kubernetes Workloads* | [Slides & Recording](https://www.conf42.com/Kube_Native_2024_Koray_Oksay_Batuhan_Apaydin_kubevirt_vms_kubernetes_workloads)
+- **Google DevFest'24 Istanbul** Talk (w/ @developer-guy) *Crossplane & GitOps in Action: Unlocking Kubernetes-Native Control for GCP* | [Slides](./slides/KOksay-2024-DevFestIstanbul.pdf)
 
 ## Upcoming
 
+- **Conf42 DevSecOps 2024 - Online** Talk (w/ @developer-guy) *Transforming Kubernetes Policy Management: WASM Meets GitOps*
 - **Google DevFest'24 Izmir** Talk (w/ @developer-guy) *Crossplane & GitOps in Action: Unlocking Kubernetes-Native Control for GCP*
 - **DevOps Pro Europe 2025 - Vilnius** Talk (w/ @ckavili) *VMs in containers: What kind of sorcery is this?*
