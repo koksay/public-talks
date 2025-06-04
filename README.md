@@ -29,9 +29,10 @@
 - **ChatLoopBackOff** LiveStream: *Episode 29: SOPS* [Recording](https://www.youtube.com/watch?v=FUBMLa8bAJE)
 - **Conf42 Kube Native 2024 - Online** Talk: *KubeVirt Alchemy: Transforming VMs into Kubernetes Workloads* | [Slides & Recording](https://www.conf42.com/Kube_Native_2024_Koray_Oksay_Batuhan_Apaydin_kubevirt_vms_kubernetes_workloads)
 - **Google DevFest'24 Istanbul** Talk (w/ @developer-guy) *Crossplane & GitOps in Action: Unlocking Kubernetes-Native Control for GCP* | [Slides](./slides/KOksay-2024-DevFestIstanbul.pdf)
+- **Google DevFest'24 Izmir** Talk (w/ @developer-guy) *Crossplane & GitOps in Action: Unlocking Kubernetes-Native Control for GCP* 
 
-## Upcoming
+## 2025
 
-- **Conf42 DevSecOps 2024 - Online** Talk (w/ @developer-guy) *Transforming Kubernetes Policy Management: WASM Meets GitOps*
-- **Google DevFest'24 Izmir** Talk (w/ @developer-guy) *Crossplane & GitOps in Action: Unlocking Kubernetes-Native Control for GCP*
-- **DevOps Pro Europe 2025 - Vilnius** Talk (w/ @ckavili) *VMs in containers: What kind of sorcery is this?*
+- **Cloud Native Rejekts - Amsterdam** Talk *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2025-CloudNativeRejekts.pdf) | [Recording](https://www.youtube.com/watch?v=q-xun1y8BH4)
+- **AWS Community Days Turkiye - Istanbul** Talk (w/ @developer-guy): *Signature Approved: Securing Kubernetes Workloads with Kyverno and AWS Signer* | [Slides](./slides/KOksay-2025-AWSCommunityDaysTurkiye.pdf) | [Recording](https://www.youtube.com/watch?v=ZGyccivF4OQ)
+- **GitOpsCon Europe 2025 - Online** Talk (w/ @ckavili): *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-GitOpsConEurope.pdf)
