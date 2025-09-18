@@ -35,5 +35,5 @@
 
 - **Cloud Native Rejekts - Amsterdam** Talk *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2025-CloudNativeRejekts.pdf) | [Recording](https://www.youtube.com/watch?v=q-xun1y8BH4)
 - **AWS Community Days Turkiye - Istanbul** Talk (w/ @developer-guy): *Signature Approved: Securing Kubernetes Workloads with Kyverno and AWS Signer* | [Slides](./slides/KOksay-2025-AWSCommunityDaysTurkiye.pdf) | [Recording](https://www.youtube.com/watch?v=ZGyccivF4OQ)
-- **GitOpsCon Europe 2025 - Online** Talk (w/ @ckavili): *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-GitOpsConEurope.pdf)
+- **GitOpsCon Europe 2025 - Online** Talk (w/ @ckavili): *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-GitOpsConEurope.pdf) | [Slides](https://www.youtube.com/watch?v=Rhm23p-WpjA)
 - **ChatLoopBackOff** LiveStream: *Episode 66: Kube-OVN* [Recording](https://www.youtube.com/watch?v=jKRguGArw_A)
