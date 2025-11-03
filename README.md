@@ -6,11 +6,12 @@
 
 ## 2025
 
-- **Cloud Native Rejekts - Amsterdam** Talk *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2025-CloudNativeRejekts.pdf) | [Recording](https://www.youtube.com/watch?v=q-xun1y8BH4)
-- **AWS Community Days Turkiye - Istanbul** Talk (w/ @developer-guy): *Signature Approved: Securing Kubernetes Workloads with Kyverno and AWS Signer* | [Slides](./slides/KOksay-2025-AWSCommunityDaysTurkiye.pdf) | [Recording](https://www.youtube.com/watch?v=ZGyccivF4OQ)
-- **GitOpsCon Europe 2025 - Online** Talk (w/ @ckavili): *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-GitOpsConEurope.pdf) | [Slides](https://www.youtube.com/watch?v=Rhm23p-WpjA)
+- **Cloud Native Rejekts - Amsterdam** Talk: *Kyverno Chronicles: A DevSecOps Tale* | [Slides](./slides/KOksay-2025-CloudNativeRejekts.pdf) | [Recording](https://www.youtube.com/watch?v=q-xun1y8BH4)
+- **AWS Community Days Turkiye - Istanbul** Talk: (w/ @developer-guy): *Signature Approved: Securing Kubernetes Workloads with Kyverno and AWS Signer* | [Slides](./slides/KOksay-2025-AWSCommunityDaysTurkiye.pdf) | [Recording](https://www.youtube.com/watch?v=ZGyccivF4OQ)
+- **GitOpsCon Europe 2025 - Online** Talk: (w/ @ckavili): *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-GitOpsConEurope.pdf) | [Slides](https://www.youtube.com/watch?v=Rhm23p-WpjA)
 - **ChatLoopBackOff** LiveStream: *Episode 66: Kube-OVN* [Recording](https://www.youtube.com/watch?v=jKRguGArw_A)
-- **KyvernoCon Virtual Event 2025** Talk *Kyverno Gets Smarter: Writing Dynamic Policies with CEL* | [Slides](./slides/KOksay-2025-KyvernoConVirtualEvent.pdf) | [Recording](https://www.youtube.com/watch?v=P7e5cy5Vi9E&list=PLj6h78yzYM2NSFKhot4TKwMvX8ojAZChK)
+- **KyvernoCon Virtual Event 2025** Talk: *Kyverno Gets Smarter: Writing Dynamic Policies with CEL* | [Slides](./slides/KOksay-2025-KyvernoConVirtualEvent.pdf) | [Recording](https://www.youtube.com/watch?v=P7e5cy5Vi9E&list=PLj6h78yzYM2NSFKhot4TKwMvX8ojAZChK)
+- **DevOpsDays Istanbul 2025** Ignite Talk: *The Seven Deadly Sins of GitOps*
 
 ## 2024
 
