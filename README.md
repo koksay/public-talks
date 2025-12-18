@@ -2,7 +2,7 @@
 
 ## Upcoming
 
-- **GitOpsCon North America 2025 - Online** Talk (w/ @ckavili): *GitOps and KRO: A New Way to Control Cloud Infra*
+- **Config Management Camp - Ghent** Ignite Talk: *The Seven Deadly Sins of GitOps*
 
 ## 2025
 
@@ -11,7 +11,8 @@
 - **GitOpsCon Europe 2025 - Online** Talk: (w/ @ckavili): *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-GitOpsConEurope.pdf) | [Slides](https://www.youtube.com/watch?v=Rhm23p-WpjA)
 - **ChatLoopBackOff** LiveStream: *Episode 66: Kube-OVN* [Recording](https://www.youtube.com/watch?v=jKRguGArw_A)
 - **KyvernoCon Virtual Event 2025** Talk: *Kyverno Gets Smarter: Writing Dynamic Policies with CEL* | [Slides](./slides/KOksay-2025-KyvernoConVirtualEvent.pdf) | [Recording](https://www.youtube.com/watch?v=P7e5cy5Vi9E&list=PLj6h78yzYM2NSFKhot4TKwMvX8ojAZChK)
-- **DevOpsDays Istanbul 2025** Ignite Talk: *The Seven Deadly Sins of GitOps*
+- **DevOpsDays Istanbul 2025** Ignite Talk: *The Seven Deadly Sins of GitOps* | [Slides](./slides/KOksay-2025-DevOpsDaysIstanbul.pdf) | [Recording](https://www.youtube.com/watch?v=HWAgIJZ58ns)
+- **GitOpsCon North America 2025 - Online** Talk (w/ @ckavili): *GitOps and KRO: A New Way to Control Cloud Infra* | [Slides](./slides/KOksay-2025-GitOpsConNA.pdf) | [Recording](https://www.youtube.com/watch?v=pfw7xFh1g9U)
 
 ## 2024
 
