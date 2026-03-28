@@ -2,12 +2,15 @@
 
 ## Upcoming
 
-- **KyvernoCon - Co-located at KubeCon EU** Talk: *Beyond Match & Pattern: Mastering Kyverno with CEL*
-- **Maintainer Summit Europe 26** *Talk (w/ @jeefy): Running the Runners: How CNCF Powers GitHub Actions at Scale*
+- **KCD Istanbul** Talk (w/ @la-cc): *The Evolution of GitOps in Platform Engineering*
+- **KCD Helsinki** Talk (w/ ckavili): *Building Scalable Kubernetes Governance with Kyverno and CEL*
+- **PlatformCon - Virtual** Talk: *Building Scalable Kubernetes Governance with Kyverno and CEL*
 
 ## 2026
 
 - **Config Management Camp - Ghent** Ignite Talk: *The Seven Deadly Sins of GitOps* | [Recording](https://www.youtube.com/watch?v=3L8_aO6iiXI)
+- **KyvernoCon - Co-located at KubeCon EU** Talk: *Beyond Match & Pattern: Mastering Kyverno with CEL*
+- **Maintainer Summit Europe 26** Talk (w/ @jeefy): *Running the Runners: How CNCF Powers GitHub Actions at Scale*
 
 ## 2025
 
